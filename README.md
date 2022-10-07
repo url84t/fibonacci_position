@@ -6,3 +6,5 @@
 - clone this repository
 - enter the directory 
 - type `cargo run`
+
+*limited to 186 positions due to the u128 size restrictions*
